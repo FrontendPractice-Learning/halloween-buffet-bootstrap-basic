@@ -1,0 +1,82 @@
+
+body{
+    font-family: Roboto, sans-serif ;
+    color: #da5417;
+}
+
+
+.nav-link {
+    font-family: Roboto, sans-serif ;
+    color:  rgb(44, 19, 54);
+}
+
+
+.nav-link:hover,
+.navbar-brand:hover {
+    color: rgb(44, 19, 54);
+}
+
+
+
+.section-title-navbar {
+    font-family: "Kablammo", system-ui;
+    color:  rgb(44, 19, 54);
+}
+
+.section-title {
+    font-family: "Kablammo", system-ui;
+    color:  #da5417;
+}
+
+.navbar {
+    background-color: #da5417;
+}
+
+.carousel img {
+    width: 100%;
+}
+
+.text-colored {
+    color: #e15f41;
+}
+
+
+.nav .nav-link.active {
+    background-color: rgb(44, 19, 54);
+    color: #da5417;
+}
+
+
+
+
+.nav-cardapio .nav-link.active {
+    background-color: #da5417;
+    color: rgb(44, 19, 54);
+}
+
+
+
+.nav-cardapio .nav-link.active:hover,
+.nav-cardapio .nav-link:hover {
+    color: #fff;
+}
+
+.tab-content img {
+    height: 80%;
+    object-fit: cover;
+}
+
+
+section {
+    background-color: rgb(44, 19, 54);
+}
+
+aside .nav-link {
+    color: #da5417;
+}
+
+form .btn {
+    background-color: #da5417;
+    color: rgb(44, 19, 54);
+}
+
